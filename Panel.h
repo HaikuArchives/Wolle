@@ -12,7 +12,7 @@
 #define _PANEL_H
 
 #include <FilePanel.h>
-
+#include <Handler.h>
 class Panel : public BFilePanel {
 
 public:
